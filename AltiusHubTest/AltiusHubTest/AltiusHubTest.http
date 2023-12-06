@@ -1,0 +1,6 @@
+@AltiusHubTest_HostAddress = http://localhost:5227
+
+GET {{AltiusHubTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

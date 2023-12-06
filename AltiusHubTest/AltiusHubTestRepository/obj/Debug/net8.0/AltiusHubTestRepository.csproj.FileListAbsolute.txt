@@ -1,0 +1,15 @@
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\bin\Debug\net8.0\AltiusHubTestRepository.deps.json
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\bin\Debug\net8.0\AltiusHubTestRepository.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\bin\Debug\net8.0\AltiusHubTestRepository.pdb
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.AssemblyInfoInputs.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.AssemblyInfo.cs
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\refint\AltiusHubTestRepository.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.pdb
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\ref\AltiusHubTestRepository.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\bin\Debug\net8.0\AltiusHubTestData.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\bin\Debug\net8.0\AltiusHubTestData.pdb
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestRepository\obj\Debug\net8.0\AltiusHubTestRepository.csproj.CopyComplete

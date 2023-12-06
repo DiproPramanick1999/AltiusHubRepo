@@ -1,0 +1,14 @@
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\bin\Debug\net8.0\AltiusHubTestData.deps.json
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\bin\Debug\net8.0\AltiusHubTestData.runtimeconfig.json
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\bin\Debug\net8.0\AltiusHubTestData.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\bin\Debug\net8.0\AltiusHubTestData.pdb
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.AssemblyInfoInputs.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.AssemblyInfo.cs
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\refint\AltiusHubTestData.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.pdb
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\AltiusHubTestData.genruntimeconfig.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubTestData\obj\Debug\net8.0\ref\AltiusHubTestData.dll

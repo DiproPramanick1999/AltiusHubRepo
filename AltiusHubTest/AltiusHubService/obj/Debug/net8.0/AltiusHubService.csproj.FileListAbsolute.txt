@@ -1,0 +1,11 @@
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\bin\Debug\net8.0\AltiusHubService.deps.json
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\bin\Debug\net8.0\AltiusHubService.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\bin\Debug\net8.0\AltiusHubService.pdb
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\AltiusHubService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\AltiusHubService.AssemblyInfoInputs.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\AltiusHubService.AssemblyInfo.cs
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\AltiusHubService.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\AltiusHubService.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\refint\AltiusHubService.dll
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\AltiusHubService.pdb
+C:\Users\Dipro Pramanick\Desktop\AltiusHub\AltiusHubTest\AltiusHubService\obj\Debug\net8.0\ref\AltiusHubService.dll
